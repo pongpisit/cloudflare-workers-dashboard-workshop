@@ -40,9 +40,10 @@ Learn to build applications with **Cloudflare Workers** using the **Cloudflare D
 
 ## Quick Start
 
-1. Go to [Module 1: Dashboard Setup](./docs/01-dashboard-setup.md)
-2. Follow each step with screenshots
-3. Copy and paste the code - no typing needed!
+1. Start with [Module 0: Why Cloudflare?](./docs/00-why-cloudflare.md) to understand the platform
+2. Then go to [Module 1: Dashboard Setup](./docs/01-dashboard-setup.md)
+3. Follow each step with screenshots
+4. Copy and paste the code - no typing needed!
 
 ---
 
