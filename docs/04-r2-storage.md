@@ -17,8 +17,10 @@ Create an R2 bucket, upload your profile picture, and display it on your profile
 ## Step 1: Navigate to R2
 
 1. Go to [https://dash.cloudflare.com](https://dash.cloudflare.com)
-2. In the left sidebar, click **Build** → **Storage & databases** → **R2 object storage**
-3. You'll see the R2 overview page
+2. In the **left sidebar**, click **Build** (expand if collapsed)
+3. Under Build, click **Storage & databases** to expand the submenu
+4. Click **R2 object storage**
+5. You'll see the R2 overview page showing your buckets (if any)
 
 ---
 
@@ -113,8 +115,9 @@ To access your R2 bucket from your Worker code, you need to create a binding. Th
 ### Steps to Bind R2 to Your Worker
 
 1. Go to your Worker in the Dashboard:
-   - Click **Build** → **Compute & AI** → **Workers & Pages**
-   - Click on your Worker name
+   - In the left sidebar, click **Build**
+   - Click **Compute & AI** → **Workers & Pages**
+   - Click on your Worker name from the list
 
 2. Click the **Bindings** tab
 

@@ -16,10 +16,14 @@ Add an AI chatbot to your Worker using Cloudflare's Workers AI.
 ## Step 1: Create a New Worker for the AI Chatbot
 
 1. Go to [https://dash.cloudflare.com](https://dash.cloudflare.com)
-2. Click **Build** → **Compute & AI** → **Workers & Pages**
-3. Click **Create application** → **Start with Hello World!**
-4. Name it: `ai-chatbot` (or any name you like)
-5. Click **Deploy**
+2. In the **left sidebar**, click **Build** (expand if collapsed)
+3. Click **Compute & AI** to expand the submenu
+4. Click **Workers & Pages**
+5. Click the **Create application** button (blue button, top right)
+6. Select **Create Worker** tab
+7. Click **Start with Hello World!** template
+8. Enter Worker name: `ai-chatbot` (or any name you prefer)
+9. Click **Deploy** button
 6. You'll see the default Hello World preview — leave it for now
 7. Stay on this new Worker; we'll add bindings next
 

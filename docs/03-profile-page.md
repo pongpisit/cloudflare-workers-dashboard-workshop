@@ -16,9 +16,11 @@ Enhance your Worker with a beautiful personal profile page with advanced styling
 ## Step 1: Open Your Worker for Editing
 
 1. Go to [https://dash.cloudflare.com](https://dash.cloudflare.com)
-2. Click **Build** → **Compute & AI** → **Workers & Pages**
-3. Click on your Worker name (created in Module 2)
-4. Click the **Edit code** button
+2. In the **left sidebar**, click **Build** (expand if needed)
+3. Click **Compute & AI** to expand
+4. Click **Workers & Pages**
+5. Find and click on your Worker name (created in Module 2)
+6. Click the **Edit code** button (top right)
 
 ---
 

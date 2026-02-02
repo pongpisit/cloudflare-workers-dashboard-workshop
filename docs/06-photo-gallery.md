@@ -19,8 +19,10 @@ Build an Instagram-style photo gallery using R2 and D1. This module creates a **
 ## Step 1: Create a New R2 Bucket for Photos
 
 1. Go to [https://dash.cloudflare.com](https://dash.cloudflare.com)
-2. Click **Build** → **Storage & databases** → **R2 object storage**
-3. Click **Create bucket**
+2. In the **left sidebar**, click **Build**
+3. Click **Storage & databases** to expand
+4. Click **R2 object storage**
+5. Click the **Create bucket** button (blue button, top right)
 4. Enter bucket name: `photo-gallery`
 5. Keep default region (Asia Pacific)
 6. Click **Create bucket**
@@ -30,9 +32,11 @@ Build an Instagram-style photo gallery using R2 and D1. This module creates a **
 
 ## Step 2: Create a New Worker for Photo Gallery
 
-1. Go to **Build** → **Compute & AI** → **Workers & Pages**
-2. Click **Create application** → **Create Worker**
-3. Name it: `photo-gallery`
+1. In the **left sidebar**, click **Build**
+2. Click **Compute & AI** → **Workers & Pages**
+3. Click the **Create application** button (top right)
+4. Click **Create Worker** tab
+5. Enter Worker name: `photo-gallery`
 4. Click **Deploy**
 5. You'll see a "Start with Hello World!" template - that's fine, we'll update it later
 6. Once deployed, proceed to add bindings in the next step

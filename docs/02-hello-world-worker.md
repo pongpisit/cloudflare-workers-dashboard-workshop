@@ -16,10 +16,13 @@ Modify your Worker to return HTML, JSON, and handle different routes.
 ## Step 1: Open Your Worker for Editing
 
 1. Go to [https://dash.cloudflare.com](https://dash.cloudflare.com)
-2. Click **Build** → **Compute & AI** → **Workers & Pages**
-3. Click on your Worker name (created in Module 1)
-4. Click the **Edit code** button (top right)
-5. You'll see the code editor with your current Worker code
+2. In the **left sidebar**, locate and click **Build** (expand if collapsed)
+3. Under Build, click **Compute & AI** to expand the submenu
+4. Click **Workers & Pages**
+5. You'll see a list of your Workers and Pages projects
+6. Find and click on your Worker name (the one you created in Module 1)
+7. On the Worker details page, click the **Edit code** button (top right corner)
+8. The code editor will open with your current Worker code
 
 ---
 
